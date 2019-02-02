@@ -1,0 +1,28 @@
+p {
+  color: white;
+  margin-top: 73px;
+  margin-bottom: 3rem;
+}
+h1 {
+  color: white;
+}
+h1 {
+    margin-bottom: -1.5rem;
+    margin-top: 6rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+}
+h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: 36px;
+    margin-bottom: -4rem;
+}
+.my-bg {
+  filter: blur()
+background-image: url"";
+}
+.far fa-play-circle {
+  align-content: center;
+}

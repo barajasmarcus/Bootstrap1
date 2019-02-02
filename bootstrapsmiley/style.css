@@ -1,0 +1,29 @@
+h2 {
+  font-size: 20px;
+  text-align: center;
+  color: gray;
+}
+h3 {
+  font-size: 20px;
+  text-align: center;
+  color: gray;
+}
+.container {
+  block-size: 69px;
+  border-block-end-style: ridge;
+  border-block-end-width: 1px;
+  border-block-end-color: rgba(0, 0, 0, 0.276);
+}
+bg-light {
+  margin-right: -67px;
+  margin-left: 100px;
+}
+row {
+  margin-right: -81px;
+  margin-left: -8px;
+  padding-block-end: 100px;
+}
+div {
+  outline: 1px solid black;
+}
+
